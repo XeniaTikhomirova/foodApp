@@ -23,4 +23,4 @@ dist-ssr
 *.sln
 *.sw?
 
-foodapp/src/components/ApiKey.js
+src/components/ApiKey.js
