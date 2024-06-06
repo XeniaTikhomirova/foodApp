@@ -3,6 +3,7 @@ import styles from "./searchbars.module.css";
 
 const URL = "https://api.spoonacular.com/recipes/complexSearch";
 //const apiKey = process.env.REACT_APP_API_KEY;
+//const apiKey = "";
 
 
 export default function SearchBar({ foodData, setFoodData }) {

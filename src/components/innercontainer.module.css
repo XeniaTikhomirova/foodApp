@@ -1,0 +1,6 @@
+.innerContainer{
+   background-color: salmon;
+   margin: 0px 12px;
+   flex: 1;
+   padding: 10px;
+}
